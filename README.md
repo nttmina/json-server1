@@ -2,4 +2,4 @@
 
 1) Create a repository on GitHub (<your-username>/<your-repo>)
 2) Create a db.json file
-3) Visit https://my-json-server.typicode.com/<your-username>/<your-repo> to access your server
+3) Visit https://my-json-server.typicode.com/your-gitbub-username/your-gitbub-repo to access your server
