@@ -1,0 +1,52 @@
+{
+  "estatesales": [
+    {
+      "id": "001",
+      "address": "2785 S Bascom Ave, San Jose, CA 95124",
+      "date": "08/25",
+      "time": "9am-1pm",
+	  "desc":"furniture,kitchen ware, appliances",
+      "duration": "15mins",
+      "done": ""
+    },
+    {
+      "id": "002",
+      "address": "1573 Wawona Dr, San Jose, CA 95125",
+      "time": "9am-12pm",
+      "date": "06/26",
+	  "desc":"garden tools,kitchen ware, appliances",
+      "duration": "25mins",
+      "done": "1"
+    },
+    {
+      "id": "003",
+      "address": "2614 Nightingale Dr, San Jose, CA 95125",
+      "time": "9am-1pm",
+      "date": "07/03",
+	  "desc":"everything for households and garden",
+      "done": ""
+    }
+  ],
+  
+   "yardsales": [
+    {
+      "id": "001",
+      "address": "y2785 S Bascom Ave, San Jose, CA 95124",
+      "date": "08/25",
+      "time": "9am-1pm",
+	  "desc":"furniture,kitchen ware, appliances",
+      "duration": "15mins",
+      "done": ""
+    },
+    {
+      "id": "002",
+      "address": "y2614 Nightingale Dr, San Jose, CA 95125",
+      "time": "9am-1pm",
+      "date": "07/03",
+	  "desc":"everything for households and garden",
+      "done": ""
+    }
+  ]
+  
+  
+}
